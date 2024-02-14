@@ -1,0 +1,17 @@
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Application.dll
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/bin/Debug/net7.0/Application.pdb
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll

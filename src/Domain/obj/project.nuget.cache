@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPWQ5IwZkKUl+wvH1lHan9nMfAf2eukJHwgFnUEA5dtjITLggXl+sHMS7+pXcLBxSV89G2PmLds3OaX9/Sr/MA==",
+  "success": true,
+  "projectFilePath": "/Users/alvarodavid/Documents/Proyectos/PruebaViamatica/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/alvarodavid/.nuget/packages/erroror/1.9.0/erroror.1.9.0.nupkg.sha512",
+    "/Users/alvarodavid/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/alvarodavid/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/alvarodavid/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
